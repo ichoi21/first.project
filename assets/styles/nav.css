@@ -21,7 +21,9 @@ body {
 
 .nav-items li {
     list-style: none;
-    display: inline
+    display: inline;
+    justify-content: space-between;
+    margin-right: 30px;
 }
 
 .nav-items li a {
