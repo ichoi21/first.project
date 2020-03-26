@@ -1,6 +1,6 @@
-.header-txt {
-    color: red;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-li {
-    font-family: Arial, Helvetica, sans-serif;
+.nav {
+    display: flex;
 }
